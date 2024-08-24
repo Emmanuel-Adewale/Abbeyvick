@@ -154,6 +154,7 @@ header {
 
 .send-button:hover {
   background-color: #e68a00;
+  cursor: pointer;
 }
 
 .footer {
